@@ -1,0 +1,4 @@
+nltk==3.5
+numpy==1.16.2
+sklearn==0.0
+joblib==0.12.5
